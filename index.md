@@ -10,4 +10,3 @@ Wordmint is an iOS app that extracts words from PDFs and looks up per-language d
 ## Links
 
 - [Privacy Policy](/Wordmint/privacy/)
-- [Source on GitHub](https://github.com/alexfpalmero/Wordmint)
