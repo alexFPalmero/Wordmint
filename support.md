@@ -35,3 +35,7 @@ Everything stays on your device. Wordmint uses iOS's built-in storage and never 
 ## Privacy
 
 Our privacy policy lives at [alexfpalmero.github.io/Wordmint/privacy](https://alexfpalmero.github.io/Wordmint/privacy/).
+
+## Attribution
+
+Word definitions are fetched live from [Wiktionary](https://www.wiktionary.org/) and used under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). Each definition card in the app includes a link back to the original Wiktionary article. All credit belongs to Wiktionary's contributors.
